@@ -1,0 +1,74 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: root.aux
+Reallocating 'name_of_file' (item size: 1) to 23 items.
+A level-1 auxiliary file: preface/c_abstract.aux
+Reallocating 'name_of_file' (item size: 1) to 23 items.
+A level-1 auxiliary file: preface/e_abstract.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: body/ch01.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: body/ch02.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: body/ch03.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: body/ch04.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: body/ch05.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: body/ch06.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: body/ch07.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: body/ch99.aux
+Reallocating 'name_of_file' (item size: 1) to 30 items.
+A level-1 auxiliary file: appendix/acknowledgements.aux
+Reallocating 'name_of_file' (item size: 1) to 3 items.
+The style file: jn.bst
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Reallocating 'name_of_file' (item size: 1) to 26 items.
+A level-1 auxiliary file: appendix/publications.aux
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Database file #1: references.bib
+You've used 9 entries,
+            3954 wiz_defined-function locations,
+            926 strings with 7472 characters,
+and the built_in function-call counts, 20730 in all, are:
+= -- 655
+> -- 1916
+< -- 2703
++ -- 945
+- -- 158
+* -- 244
+:= -- 3182
+add.period$ -- 31
+call.type$ -- 9
+change.case$ -- 12
+chr.to.int$ -- 770
+cite$ -- 9
+duplicate$ -- 189
+empty$ -- 490
+format.name$ -- 98
+if$ -- 5233
+int.to.chr$ -- 1
+int.to.str$ -- 10
+missing$ -- 0
+newline$ -- 59
+num.names$ -- 31
+pop$ -- 585
+preamble$ -- 1
+purify$ -- 9
+quote$ -- 0
+skip$ -- 1855
+stack$ -- 0
+substring$ -- 1091
+swap$ -- 17
+text.length$ -- 79
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 91
+warning$ -- 0
+while$ -- 114
+width$ -- 0
+write$ -- 143

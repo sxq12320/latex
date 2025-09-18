@@ -382,9 +382,9 @@ INPUT E:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmbsy7.tfm
 INPUT E:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT E:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT E:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
-INPUT .\figures\gongzhonghao2.png
-INPUT .\figures\gongzhonghao2.png
 OUTPUT example.xdv
+INPUT .\figures\gongzhonghao2.png
+INPUT .\figures\gongzhonghao2.png
 INPUT E:\Program Files\MiKTeX\tex\latex\listings\lstlang1.sty
 INPUT E:\Program Files\MiKTeX\tex\latex\listings\lstlang1.sty
 INPUT E:\Program Files\MiKTeX\tex\latex\listings\lstlang1.sty

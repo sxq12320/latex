@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.7.29)  14 SEP 2025 13:53
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.7.29)  18 SEP 2025 16:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1145,12 +1145,12 @@ Package hyperref Info: Link coloring ON on input line 20.
 \@outlinefile=\write5
 \openout5 = `example.out'.
 
-LaTeX Font Info:    Calculating math sizes for size <12.05> on input line 24.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 24.
+LaTeX Font Info:    Calculating math sizes for size <12.05> on input line 26.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 26.
  (E:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 24.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
  (E:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
@@ -1177,6 +1177,9 @@ Package fontspec Info: Font family 'FangSong(0)' created for font 'FangSong'
 (fontspec)             <->"FangSong/OT:script=hani;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
+ [1
+
+] [2] [3]
 File: figures/gongzhonghao2.png Graphic file (type bmp)
 <figures/gongzhonghao2.png>
 
@@ -1202,9 +1205,7 @@ Package fontspec Info: Font family 'SimHei(0)' created for font 'SimHei' with
 (fontspec)             <->"SimHei/OT:script=hani;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
- [1
-
-] (E:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
+ [4] (E:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
 ) (E:\Program Files\MiKTeX\tex/latex/listings\lstlang2.sty
 File: lstlang2.sty 2023/02/27 1.9 listings language file
@@ -1224,7 +1225,7 @@ File: lstlang2.sty 2023/02/27 1.9 listings language file
 File: lstlang3.sty 2023/02/27 1.9 listings language file
 ) (E:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
-) [2]
+) [5]
 File: figures/smokeblk.pdf Graphic file (type pdf)
 <use figures/smokeblk.pdf>
 
@@ -1253,12 +1254,12 @@ Package fontspec Info: Font family 'SimSun(1)' created for font 'SimSun' with
 
 
 LaTeX Font Warning: Font shape `TU/SimSun(1)/b/n' undefined
-(Font)              using `TU/SimSun(1)/m/n' instead on input line 149.
+(Font)              using `TU/SimSun(1)/m/n' instead on input line 383.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[3]
+[6]
 File: figures/f1.png Graphic file (type bmp)
 <figures/f1.png>
 File: figures/f1.png Graphic file (type bmp)
@@ -1269,69 +1270,69 @@ File: figures/cat.pdf Graphic file (type pdf)
 <use figures/cat.pdf>
 File: figures/smokeblk.pdf Graphic file (type pdf)
 <use figures/smokeblk.pdf>
- [4] [5] [6]
+ [7] [8] [9]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 367.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 367.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 367.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 601.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 367.
-
-[7]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 371.
+(hyperref)                removed on input line 601.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 371.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 371.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 601.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 371.
+(hyperref)                removed on input line 601.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 387.
-
+[10]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 387.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 387.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 605.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 387.
+(hyperref)                removed on input line 605.
 
-[8] (E:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\leavevmode@ifvmode' on input line 605.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 605.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\leavevmode@ifvmode' on input line 621.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 621.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\leavevmode@ifvmode' on input line 621.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 621.
+
+[11] (E:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
-) [9] (E:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
+) [12] (E:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
 ) (E:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
-) [10] (example.aux)
+) [13] (example.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/08/05>
@@ -1350,6 +1351,6 @@ Here is how much of TeX's memory you used:
  56946 multiletter control sequences out of 15000+600000
  572289 words of font info for 165 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 108i,10n,114p,528b,2784s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,10n,114p,528b,2786s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on example.xdv (10 pages, 176392 bytes).
+Output written on example.xdv (13 pages, 232280 bytes).

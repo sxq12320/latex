@@ -1,3 +1,4 @@
+
 \NeedsTeXFormat{LaTeX2e}[1995/12/01]
 \ProvidesClass{cumcmthesis}
               [2017/09/16 v2.6 Standard LaTeX Template for CUMCM]

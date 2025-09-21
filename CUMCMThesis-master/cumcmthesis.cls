@@ -1,4 +1,3 @@
-
 \NeedsTeXFormat{LaTeX2e}[1995/12/01]
 \ProvidesClass{cumcmthesis}
               [2017/09/16 v2.6 Standard LaTeX Template for CUMCM]
@@ -114,7 +113,7 @@ Just choose `xelatex', no `pdflatex' or `latex' and so on.}
   tabsize=3,
 }
 % 首行缩进
-\RequirePackage{setspace}
+\RequirePackage{indentfirst}
 % 设置浮动体的标题
 \RequirePackage{caption}
 % 定制列表环境
@@ -123,7 +122,6 @@ Just choose `xelatex', no `pdflatex' or `latex' and so on.}
 \RequirePackage{ulem}
 % 尺寸计算
 \RequirePackage{calc}
-
 
 \RequirePackage[titletoc,title]{appendix}
 
@@ -158,7 +156,7 @@ Just choose `xelatex', no `pdflatex' or `latex' and so on.}
 \setsansfont{Arial}
 \setCJKfamilyfont{kai}[AutoFakeBold]{simkai.ttf}
 \newcommand*{\kai}{\CJKfamily{kai}}
-\setCJKfamilyfont{song}[AutoFakeBold]{SimSun}
+\setCJKfamilyfont{song}[AutoFakeBold]{simsun.ttc}
 \newcommand*{\song}{\CJKfamily{song}}
 
 \renewcommand\normalsize{%
@@ -357,22 +355,19 @@ Just choose `xelatex', no `pdflatex' or `latex' and so on.}
     {\zihao{-4} \mcm@commit@string@contents \par}
     {\vskip1ex\zihao{-4}
     \renewcommand{\ULthickness}{0.4pt}\setlength{\ULdepth}{2pt}
-	\begin{spacing}{1.6}
-    \mcm@commit@string@problemnum\uline{\mbox{\kern1em}\mcm@tokens@tihao\hfill}\makebox[0.66em]{}\par
+    \hspace*{2em}\mcm@commit@string@problemnum\uline{\mbox{\kern1em}\mcm@tokens@tihao\hfill}\makebox[0.66em]{}\par
     \mcm@commit@string@signupnum\uline{\mbox{\kern1em}\mcm@tokens@baominghao\hfill}\makebox[0.66em]{}\par
     \mcm@commit@string@schoolname\uline{\hfill\mcm@tokens@schoolname\hfill}\makebox[0.66em]{}\par
-	\end{spacing}
     \newlength{\mcm@lenB}
     \settowidth{\mcm@lenB}{\mcm@commit@string@membername\mbox{\hspace{1em}}1.}
     \setlength{\mcm@lenB}{\textwidth-\mcm@lenB}
     % 不这样做右边难以对齐!
-	\vskip2em%
-    \hspace*{2em}\mcm@commit@string@membername
+    \mcm@commit@string@membername
     \begin{minipage}[t]{\mcm@lenB}
-   	1.\uline{\mbox{\kern1em}\mcm@tokens@membera\hfill} \makebox[0.46em]{}\par\vspace*{.37cm}
-   	2.\uline{\mbox{\kern1em}\mcm@tokens@memberb\hfill} \makebox[0.46em]{}\par\vspace*{.37cm}
+   	1.\uline{\mbox{\kern1em}\mcm@tokens@membera\hfill} \makebox[0.46em]{}\par
+   	2.\uline{\mbox{\kern1em}\mcm@tokens@memberb\hfill} \makebox[0.46em]{}\par
    	3.\uline{\mbox{\kern1em}\mcm@tokens@memberc\hfill} \makebox[0.46em]{}\par
-   \end{minipage}\par\vskip2em
+   \end{minipage}\par\vskip1ex
     \mcm@commit@string@supervisorname\uline{\mbox{\hspace{1em}}\mcm@tokens@supervisor\hfill}\makebox[0.66em]{}\par
     \hspace{0.1cm} （{\kaishu 指导教师签名意味着对参赛队的行为和论文的真实性负责}）
     %{\kaishu\mcm@commit@string@inform\par}
@@ -608,7 +603,7 @@ Just choose `xelatex', no `pdflatex' or `latex' and so on.}
 
 我们完全清楚，在竞赛开始后参赛队员不能以任何方式，包括电话、电子邮件、“贴吧”、QQ群、微信群等，与队外的任何人（包括指导教师）交流、讨论与赛题有关的问题；无论主动参与讨论还是被动接收讨论信息都是严重违反竞赛纪律的行为。
 
-%我们完全清楚，在竞赛中必须合法合规地使用文献资料和软件工具，不能有任何侵犯知识产权的行为。否则我们将失去评奖资格，并可能受到严肃处理。
+我们完全清楚，在竞赛中必须合法合规地使用文献资料和软件工具，不能有任何侵犯知识产权的行为。否则我们将失去评奖资格，并可能受到严肃处理。
 
 {\bfseries\song 我们以中国大学生名誉和诚信郑重承诺，严格遵守竞赛章程和参赛规则，以保证竞赛的公正、公平性。如有违反竞赛章程和参赛规则的行为，我们将受到严肃处理。}
 
